@@ -11,3 +11,4 @@ Multiplication
 "AC" button to reset input
 "Backspace" button to delete the last charater entered 
 Provides real-time results on the display 
+Negate button that changes the sign of the current number 

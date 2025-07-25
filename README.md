@@ -12,3 +12,5 @@ Multiplication
 "Backspace" button to delete the last charater entered 
 Provides real-time results on the display 
 Negate button that changes the sign of the current number 
+
+Technologies Used: Visual Studio Python 3.9 TKinter(built-in Python Gui Package)

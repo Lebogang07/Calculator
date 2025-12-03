@@ -1,7 +1,7 @@
 # Calculator
-Built a basic calculator using Python with TKinter.
 
-This is a simple GUI-based calculator built using Python and the Tkinter library. It performs basic arithmetic operations such as addition, subtraction, multiplication, division and a combination of these operations. 
+This is a simple GUI-based calculator built using Python and the Tkinter library. 
+It performs basic arithmetic operations such as addition, subtraction, multiplication, division and a combination of these operations. 
 
 Features:
 Addition, 

@@ -14,3 +14,11 @@ Provides real-time results on the display,
 Negate button that changes the sign of the current number 
 
 Technologies Used: Visual Studio, Python 3.9, TKinter(built-in Python Gui Package)
+
+How to Run the Project
+
+1. Install Python (version 3.9 or later recommended)
+2. Clone this repository: git clone https://github.com/Lebogang07/Calculator.git
+3. Run the Python file:Calculator.py
+
+   
